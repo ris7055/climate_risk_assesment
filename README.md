@@ -1,6 +1,7 @@
 # Climate_risk_assesment_prototype
 This repository is for the participants of KITAHACK Team Sustainovators
-Screenshot
+![image](https://github.com/user-attachments/assets/5849d1a9-747d-461d-8098-68ce9951b1de)
+
 ## Overview
 `
 The Climate Risk Assessment Tool is a web application built with Flask and Google Earth Engine (GEE) to assess flood risk for a given location based on latitude and longitude inputs. 
